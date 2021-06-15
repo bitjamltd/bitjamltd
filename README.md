@@ -1,6 +1,6 @@
 # WE ARE BITJAM®
 
-![logo](https://raw.githubusercontent.com/bitjamltd/bitjamltd/main/static/images/logo.png)
+![logo](https://raw.githubusercontent.com/bitjamltd/bitjamltd/main/static/images/logo2.png)
 
 
 
